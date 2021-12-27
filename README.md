@@ -1,30 +1,32 @@
-### Full Stack Web3 Developer 👷‍♂️
+<h3 align="center"><samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://kevincui.dev">Shy</a></b></samp></h3>
+<br />
+<p align="center"><br>
+  <samp>
+    「 a Full Stack Web3 Developer  👷‍♂️ 」<br>
+  </samp>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheShy101)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<img align='left' src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54' />
-<img align='left' src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white' />
-<img align='left' src='https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white' />
-<img align='left' src='https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white' />
-<img align='left' src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB' />
-<img align='left' src='https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white' />
-<img align='left' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
-
-
-
-
-<!--
-**TheShy101/TheShy101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details align="center">
+   <summary> <samp>&#9776; Details</samp></summary>
+   <p align="center">
+     <br>
+     <a href="https://github.com/TheShy101?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
+    <a href="https://github.com/TheShy101?tab=repositories&language=typescript" target="_blank"><img alt='Typescript' src='https://img.shields.io/badge/-Typescript-3079C6?style=flat-square&logo=typescript&logoColor=white' /></a>
+    <a href="https://github.com/TheShy101?tab=repositories&language=javascript" target="_blank"><img alt="Javascript" src="https://img.shields.io/badge/-Javascript-f1e05a?style=flat-square&logo=Javascript&logoColor=white"></a>
+    <a href="https://github.com/TheShy101?tab=repositories&language=html" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"></a>
+    <a href="https://github.com/TheShy101?tab=repositories&language=typescript" target="_blank"><img alt='React.js' src='https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white' /></a>
+    <a href="https://github.com/TheShy101?tab=repositories&language=typescript" target="_blank"><img alt='Sass' src='https://img.shields.io/badge/-Sass-BE4180?style=flat-square&logo=sass&logoColor=white' /></a>
+    <a href="https://github.com/TheShy101?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3572A5?style=flat-square&logo=Python&logoColor=white"></a>
+    <a href="https://github.com/TheShy101?tab=repositories&language=rust" target="_blank"><img alt='Rust' src="https://img.shields.io/badge/-Rust-FF5B19?style=flat-square&logo=rust&logoColor=white" /></a>
+    <a href="https://github.com/TheShy101?tab=repositories&language=solidity" target="_blank"><img alt='Solidity' src="https://img.shields.io/badge/-Solidity-1B1A1D?style=flat-square&logo=solidity&logoColor=white" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=TheShy101&show_icons=true&hide_border=true&hide=issues&title_color=5391FE&icon_color=000000&text_color=555"></img><br>
+  </samp>
+  </p>
+</details>
+<br>
+<samp>
+  <p align="center">
+    ════ ⋆★⋆ ════<br>
+    From <a href="https://github.com/TheShy101/TheShy101">TheShy101</a>
+  </p>
+</samp>
