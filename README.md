@@ -18,7 +18,7 @@
     <a href="https://github.com/TheShy101?tab=repositories&language=typescript" target="_blank"><img alt='Sass' src='https://img.shields.io/badge/-Sass-BE4180?style=flat-square&logo=sass&logoColor=white' /></a>
     <a href="https://github.com/TheShy101?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3572A5?style=flat-square&logo=Python&logoColor=white"></a>
     <a href="https://github.com/TheShy101?tab=repositories&language=rust" target="_blank"><img alt='Rust' src="https://img.shields.io/badge/-Rust-FF5B19?style=flat-square&logo=rust&logoColor=white" /></a>
-    <a href="https://github.com/TheShy101?tab=repositories&language=solidity" target="_blank"><img alt='Solidity' src="https://img.shields.io/badge/-Solidity-1B1A1D?style=flat-square&logo=solidity&logoColor=white" /></a>
+    <a href="https://github.com/TheShy101?tab=repositories&language=solidity" target="_blank"><img alt='Solidity' src="https://img.shields.io/badge/-Solidity-1B1A1D?style=flat-square&logo=solidity&logoColor=white" /></a><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheShy101&layout=compact&hide_border=true"></img><br>
   </samp>
   </p>
