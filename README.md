@@ -1,4 +1,4 @@
-<h3 align="center"><samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://kevincui.dev">Shy</a></b></samp></h3>
+<h3 align="center"><samp>Hello! I am Shy</h3>
 <br />
 <p align="center"><br>
   <samp>
